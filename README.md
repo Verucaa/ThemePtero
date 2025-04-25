@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl [https://raw.githubusercontent.com/Verucaa/WallpaperPterodactyl/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/Verucaa/WallpaperPterodactyl/main/install.sh))
 ```
 
 Screenshots:
